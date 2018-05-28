@@ -1,0 +1,3 @@
+1.Create dataset -> dataSetCreator ->done
+2.Train the dataset -> Trainer ->Done
+3.Detector -> Detector ->Done
